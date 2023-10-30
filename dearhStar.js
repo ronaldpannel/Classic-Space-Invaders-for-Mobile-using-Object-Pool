@@ -9,7 +9,7 @@ class DeathStar {
       this.speedX = -2;
     }
     this.bombTimer = 0
-    this.bombInterval = 500
+    this.bombInterval = 1750
 
     this.radius = 30;
 
